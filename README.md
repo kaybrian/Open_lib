@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Golang](#golang)
 - [Flutter Course for beginners 37 hours)
 
 
@@ -31,5 +32,7 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### Golang
+- [Introduction to Golang](https://youtu.be/YS4e4q9oBaU)
 ###Flutter For Beginners
 -[ Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
