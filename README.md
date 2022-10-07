@@ -89,10 +89,11 @@ Table of Contents
 
 ### Python
 - [Python Tutorial For Beginners With Notes](https://www.youtube.com/watch?v=EyEqWFvLDT8)
+- [Python Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
 ### JavaScript
 - [Ultimate JavaScript Course](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46)
-
+- [JavaScript Tutorial for Beginners - Full Course in 12 Hours](https://www.youtube.com/watch?v=lI1ae4REbFM)
 ### Power BI
 - [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
 
@@ -131,6 +132,7 @@ Table of Contents
 
 ### Golang
 - [Introduction to Golang](https://youtu.be/YS4e4q9oBaU)
+- [Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 ### Flutter For Beginners
 - [Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
