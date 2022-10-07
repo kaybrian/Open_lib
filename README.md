@@ -14,16 +14,18 @@ Table of Contents
 ------------------------------
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
+- [Self Growth](#self-growth),
+- [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
 - [C programming](#c-programming)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
-- [Software-requirments](# Requirments)
+- [Software-requirments](#Requirments)
 - [Developer Roadmap](#developer-roadmap)
 - [Golang](#golang)
-- [Flutter Course for beginners 37 hours)
+- [Flutter Course for beginners 37 hours)(#Flutter-Course-for-beginners)
 - [Web development](#web-development)
 - [Golang](#golang)
-- [Flutter Course for beginners 37 hours(#Flutter Course for beginners)
+- [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
 - [Linux](#Linux)
 
 
@@ -40,6 +42,9 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### [build simple calculator]
+-[How to build simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
 
 ### C programming
 - [Data Structures in C](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
@@ -60,8 +65,8 @@ Table of Contents
 ### Golang
 - [Introduction to Golang](https://youtu.be/YS4e4q9oBaU)
 
-###Flutter For Beginners
--[ Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
+### Flutter For Beginners
+- [Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
 
 ### Linux
 - [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://youtu.be/U1w4T03B30I)
