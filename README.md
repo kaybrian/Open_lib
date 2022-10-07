@@ -19,6 +19,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [C Programming](#c-programming)
 - [Power BI](#powerbi)
 - [Adobe Photoshop 2022](#Adobe-Photoshop-2022)
 - [Learn Git basics in an hour](#git-basics)
@@ -52,6 +53,10 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### C Programming
+- [C Programming tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
+- [An Easy Guide to Understand Dynamic Memory Allocation in C Programming Language](https://medium.com/geekculture/an-easy-guide-to-understand-dynamic-memory-allocation-in-c-programming-language-bb34d29f7a06)
 
 ### Power BI
 - [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
