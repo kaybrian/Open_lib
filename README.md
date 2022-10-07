@@ -19,6 +19,9 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [Learn Git basics in an hour](#git-basics)
+
+
 - [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
 - [GUI in Java](#GUI-in-Java)
@@ -32,6 +35,7 @@ Table of Contents
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
 - [Linux](#Linux)
+
 
 
 
@@ -51,6 +55,9 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### Learn Git basics in an hour
+- [Get started with git](https://www.youtube.com/watch?v=8JJ101D3knE) 
+=======
 ### Bash loops
 - [Understanding the For, Until and While loops](https://youtu.be/_zdChpzuWrU)
 
