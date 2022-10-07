@@ -56,6 +56,9 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### Chakra UI
+-[Chakra UI crash course](https://github.com/kaybrian/Open_lib.git)
+
 ### Sreamlit
 - [Intro to Data Science](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
 
