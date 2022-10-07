@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Bash loops](#bash-loops)
 
 
 
@@ -29,3 +30,5 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+### Bash loops
+- [Understanding the For, Until and While loops](https://youtu.be/_zdChpzuWrU)
