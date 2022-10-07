@@ -29,3 +29,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Make Money Online
+- [17 Ways You Can Make Money Online Right Now](https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=6ad6da8670a5)
