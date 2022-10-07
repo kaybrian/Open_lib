@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [GUI in Java](#GUI-in-Java)
 
 
 
@@ -29,3 +30,8 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### GUI in Java
+
+- [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
+
