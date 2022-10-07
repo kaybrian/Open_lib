@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [JavaScript](#javascript-programming)
 
 
 
@@ -26,6 +27,9 @@ Table of Contents
 - [Computer Science Terminology](https://www.youtube.com/watch?v=LtoBGQPuu1c&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=4)
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
+
+### JavaScript Programming
+ - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
