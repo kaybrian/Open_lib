@@ -71,7 +71,6 @@ Table of Contents
 
 ### Markdown Sheet
 - [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/)
-- [Blog on Markdown tutorial - A beginner's approach](https://chayan.hashnode.dev/markdown-a-beginners-guide)
 
 ### Chakra UI
 -[Chakra UI crash course](https://github.com/kaybrian/Open_lib.git)
