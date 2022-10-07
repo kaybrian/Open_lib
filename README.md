@@ -15,6 +15,9 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Developer Roadmap](#developer-roadmap)
+- [Golang](#golang)
+- [Flutter Course for beginners 37 hours)
 - [Web development](#web-development)
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours(#Flutter Course for beginners)
@@ -36,6 +39,12 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+
+
+### Developer Roadmap
+- [Developer roadmap to guide your software engineering journey](https://roadmap.sh/)
+
 
 ### Make Money Online
 - [17 Ways You Can Make Money Online Right Now](https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=6ad6da8670a5)
