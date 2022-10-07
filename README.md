@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Data Analysis with R Programming](#Data Analysis with R Programming)
 
 
 
@@ -29,3 +30,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Data Analysis with R Programming
+- [R Programming Crash Course](https://www.youtube.com/watch?v=ZYdXI1GteDE)
