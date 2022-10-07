@@ -19,6 +19,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [Data Science](#data-science)
 - [Responsive Web Design](#responsive-web-design)
 - [C Programming](#c-programming)
 - [Power BI](#powerbi)
@@ -54,6 +55,10 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Sreamlit
+- [Intro to Data Science](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
+
 
 ### Responsive  web Design
 -[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
