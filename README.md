@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Software-requirments](# Requirments)
 - [Developer Roadmap](#developer-roadmap)
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours)
@@ -40,7 +41,8 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
-
+### Software Engineering
+- [Software engineering requirmets](https://youtu.be/mGkkZoFc-4I)
 
 ### Developer Roadmap
 - [Developer roadmap to guide your software engineering journey](https://roadmap.sh/)
