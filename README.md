@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Web development](#web-development)
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours(#Flutter Course for beginners)
 - [Linux](#Linux)
@@ -29,6 +30,9 @@ Table of Contents
 - [Computer Science Terminology](https://www.youtube.com/watch?v=LtoBGQPuu1c&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=4)
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
+
+### Web development
+- [w3schools.com](https://https://w3schools.com/)
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
@@ -45,7 +49,4 @@ Table of Contents
 ### Linux
 - [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://youtu.be/U1w4T03B30I)
 - [15 Basic ‘ls’ Command Examples in Linux](https://www.tecmint.com/15-basic-ls-command-examples-in-linux/)
-
-
-### Cybersecurity
 - [Hackthebox](https://www.hackthebox.com/)
