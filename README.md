@@ -32,4 +32,4 @@ Table of Contents
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
 ### Power BI
--[Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
+- [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
