@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Linux](#linux)
 
 
 
@@ -29,3 +30,7 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+
+### Linux
+- [50 Most-Used Linux Commands](https://youtu.be/ZtqBQ68cfJc)
