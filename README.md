@@ -15,7 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
-- [Data Analysis with R Programming](#Data Analysis with R Programming)
+- [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
 
 
 
