@@ -54,8 +54,12 @@ Table of Contents
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
 
+### Python
+- [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
 ### JavaScript Programming
  - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
+ 
 ### Web development
 - [w3schools.com](https://https://w3schools.com/)
 
