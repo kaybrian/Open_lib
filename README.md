@@ -15,7 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
-
+- [Developer Roadmap](#developer-roadmap)
 
 
 
@@ -29,3 +29,7 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+
+### Developer Roadmap
+- [Developer roadmap to guide your software engineering journey](https://roadmap.sh/)
