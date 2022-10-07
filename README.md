@@ -19,6 +19,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [Power BI](#powerbi)
 - [Adobe Photoshop 2022](#Adobe-Photoshop-2022)
 - [Learn Git basics in an hour](#git-basics)
 - [Bash loops](#bash-loops)
@@ -36,8 +37,6 @@ Table of Contents
 - [Linux](#Linux)
 
 
-
-
 ## Courses
 
 ---
@@ -53,6 +52,9 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Power BI
+- [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
 
 ### Adobe Photoshop 2022
 - [Photoshop Beginner Tutorial (Part 1 of 2)](https://www.youtube.com/watch?v=Wl5CQwmG3uc)
