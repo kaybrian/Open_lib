@@ -16,6 +16,8 @@ Table of Contents
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
 - [Developer Roadmap](#developer-roadmap)
+- [Flutter Course for beginners 37 hours)
+
 
 
 
@@ -33,3 +35,6 @@ Table of Contents
 
 ### Developer Roadmap
 - [Developer roadmap to guide your software engineering journey](https://roadmap.sh/)
+
+###Flutter For Beginners
+-[ Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
