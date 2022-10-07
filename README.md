@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Data Science](#data-science)
 
 
 
@@ -29,3 +30,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Sreamlit
+- [Intro to Data Science](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
