@@ -32,4 +32,4 @@ Table of Contents
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
 ### Adobe Photoshop 2022
--[Photoshop Beginner Tutorial (Part 1 of 2)](https://www.youtube.com/watch?v=Wl5CQwmG3uc)
+- [Photoshop Beginner Tutorial (Part 1 of 2)](https://www.youtube.com/watch?v=Wl5CQwmG3uc)
