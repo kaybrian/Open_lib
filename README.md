@@ -43,5 +43,6 @@ Table of Contents
 -[ Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
 
 ### Linux
+- [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://youtu.be/U1w4T03B30I)
 - [15 Basic ‘ls’ Command Examples in Linux](https://www.tecmint.com/15-basic-ls-command-examples-in-linux/)
 
