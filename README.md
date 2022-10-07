@@ -19,6 +19,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [Markdown Sheet](#markdown-sheet)
 - [JavaScript](#javascript-programming)
 - [Data Science](#data-science)
 - [Responsive Web Design](#responsive-web-design)
@@ -58,6 +59,9 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Markdown Sheet
+- [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/)
 
 ### Chakra UI
 -[Chakra UI crash course](https://github.com/kaybrian/Open_lib.git)
