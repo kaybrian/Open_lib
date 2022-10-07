@@ -32,7 +32,11 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### Make Money Online
+- [17 Ways You Can Make Money Online Right Now](https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=6ad6da8670a5)
+
 ### Golang
 - [Introduction to Golang](https://youtu.be/YS4e4q9oBaU)
 ###Flutter For Beginners
 -[ Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
+
