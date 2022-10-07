@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Power BI](#powerbi)
 
 
 
@@ -29,3 +30,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Power BI
+-[Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
