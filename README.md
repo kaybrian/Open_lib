@@ -19,6 +19,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [JavaScript](#javascript-programming)
 - [Data Science](#data-science)
 - [Responsive Web Design](#responsive-web-design)
 - [C Programming](#c-programming)
@@ -50,6 +51,8 @@ Table of Contents
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
 
+### JavaScript Programming
+ - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
 ### Web development
 - [w3schools.com](https://https://w3schools.com/)
 
