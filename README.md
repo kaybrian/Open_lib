@@ -31,6 +31,8 @@ Table of Contents
 - [Data Structures and Algorithms](#datastructures)
 - [GUI in Java](#GUI-in-Java)
 - [C programming](#c-programming)
+- [Python](#python)
+- [JavaScript](#JavaScript)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
 - [Software-requirments](#Requirments)
 - [Developer Roadmap](#developer-roadmap)
@@ -80,6 +82,12 @@ Table of Contents
 ### C Programming
 - [C Programming tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
 - [An Easy Guide to Understand Dynamic Memory Allocation in C Programming Language](https://medium.com/geekculture/an-easy-guide-to-understand-dynamic-memory-allocation-in-c-programming-language-bb34d29f7a06)
+
+### Python
+- [Python Tutorial For Beginners With Notes](https://www.youtube.com/watch?v=EyEqWFvLDT8)
+
+### JavaScript
+- [Ultimate JavaScript Course](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46)
 
 ### Power BI
 - [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
