@@ -15,7 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
-
+- [Learn Git basics in an hour](#git-basics)
 
 
 
@@ -29,3 +29,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Learn Git basics in an hour
+- [Get started with git](https://www.youtube.com/watch?v=8JJ101D3knE) 
