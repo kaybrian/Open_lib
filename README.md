@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Software-requirments](# Requirments)
 
 
 
@@ -29,3 +30,7 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Software Engineering
+- [Software engineering requirmets](https://youtu.be/mGkkZoFc-4I)
+
