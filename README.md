@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [C programming](#c-programming)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
 - [Software-requirments](# Requirments)
 - [Developer Roadmap](#developer-roadmap)
@@ -24,8 +25,6 @@ Table of Contents
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours(#Flutter Course for beginners)
 - [Linux](#Linux)
-
-
 
 
 ## Courses
@@ -41,6 +40,9 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### C programming
+- [Data Structures in C](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 ### Data Analysis with R Programming
 - [R Programming Crash Course](https://www.youtube.com/watch?v=ZYdXI1GteDE)
