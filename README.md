@@ -17,6 +17,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [GUI in Java](#GUI-in-Java)
 - [C programming](#c-programming)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
 - [Software-requirments](#Requirments)
@@ -43,6 +44,10 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### GUI in Java
+
+- [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
+
 ### [build simple calculator]
 -[How to build simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
 
@@ -57,7 +62,6 @@ Table of Contents
 
 ### Developer Roadmap
 - [Developer roadmap to guide your software engineering journey](https://roadmap.sh/)
-
 
 ### Make Money Online
 - [17 Ways You Can Make Money Online Right Now](https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=6ad6da8670a5)
