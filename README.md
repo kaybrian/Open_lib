@@ -29,3 +29,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Lifestyle stuff
+- [Hallden Youtube Channel](https://www.youtube.com/c/KalleHallden)
