@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [Adobe Photoshop 2022](#Adobe_Photoshop 2022)
 
 
 
@@ -29,3 +30,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Adobe_Photoshop
+-[Photoshop Beginner Tutorial (Part 1 of 2)](https://www.youtube.com/watch?v=Wl5CQwmG3uc)
