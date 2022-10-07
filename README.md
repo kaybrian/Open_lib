@@ -60,6 +60,9 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### Lifestyle stuff
+- [Hallden Youtube Channel](https://www.youtube.com/c/KalleHallden)
+
 ### Markdown Sheet
 - [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/)
 
