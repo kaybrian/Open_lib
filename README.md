@@ -19,6 +19,7 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
 - [GUI in Java](#GUI-in-Java)
 - [C programming](#c-programming)
@@ -49,6 +50,9 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### Bash loops
+- [Understanding the For, Until and While loops](https://youtu.be/_zdChpzuWrU)
 
 ### Data Structures and Algorithms
 - [Starting With Data Structures](https://youtu.be/BBpAmxU_NQo)
