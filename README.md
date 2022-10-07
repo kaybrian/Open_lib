@@ -14,7 +14,9 @@ Table of Contents
 ------------------------------
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Self Growth](#self-growth)
+- [Self Growth](#self-growth),
+- [build simple calculator](#build-simple-calculator)
+
 
 
 
@@ -29,3 +31,5 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+### [build simple calculator]
+-[How to build simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
