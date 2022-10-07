@@ -19,9 +19,8 @@ Table of Contents
 - [Self Growth](#self-growth),
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
+- [Adobe Photoshop 2022](#Adobe-Photoshop-2022)
 - [Learn Git basics in an hour](#git-basics)
-
-
 - [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
 - [GUI in Java](#GUI-in-Java)
@@ -55,9 +54,12 @@ Table of Contents
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
 
+### Adobe Photoshop 2022
+- [Photoshop Beginner Tutorial (Part 1 of 2)](https://www.youtube.com/watch?v=Wl5CQwmG3uc)
+
 ### Learn Git basics in an hour
 - [Get started with git](https://www.youtube.com/watch?v=8JJ101D3knE) 
-=======
+
 ### Bash loops
 - [Understanding the For, Until and While loops](https://youtu.be/_zdChpzuWrU)
 
