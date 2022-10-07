@@ -15,7 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
-- [Flutter Course for beginners 37 hours)
+- [Web development](#web-development)
 
 
 
@@ -28,8 +28,8 @@ Table of Contents
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
 
+### Web development
+- [w3schools.com](https://https://w3schools.com/)
+
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
-
-###Flutter For Beginners
--[ Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
