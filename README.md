@@ -33,3 +33,4 @@ Table of Contents
 
 ### C Programming
 - [C Programming tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
+- [An Easy Guide to Understand Dynamic Memory Allocation in C Programming Language](https://medium.com/geekculture/an-easy-guide-to-understand-dynamic-memory-allocation-in-c-programming-language-bb34d29f7a06)
