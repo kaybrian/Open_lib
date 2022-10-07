@@ -37,7 +37,7 @@ Table of Contents
 - [Software-requirments](#Requirments)
 - [Developer Roadmap](#developer-roadmap)
 - [Golang](#golang)
-- [Flutter Course for beginners 37 hours)(#Flutter-Course-for-beginners)
+- [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
 - [Web development](#web-development)
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
@@ -78,10 +78,8 @@ Table of Contents
 ### Sreamlit
 - [Intro to Data Science](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
 
-
 ### Responsive  web Design
 -[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-
 
 ### C Programming
 - [C Programming tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
@@ -111,7 +109,7 @@ Table of Contents
 ### GUI in Java
 - [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
 
-### [build simple calculator]
+### build simple calculator
 -[How to build simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
 
 ### C programming
