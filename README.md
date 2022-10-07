@@ -15,6 +15,7 @@ Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Self Growth](#self-growth)
+- [C Programming](#c-programming)
 
 
 
@@ -29,3 +30,6 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+
+### C Programming
+- [C Programming tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
