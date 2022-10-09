@@ -108,6 +108,7 @@ Table of Contents
 
 ### Data Structures and Algorithms
 - [Starting With Data Structures](https://youtu.be/BBpAmxU_NQo)
+- [Complete Data Structures & Algorithms Guide](https://docs.google.com/viewer?url=https://github.com/chyna-gvng/Open_lib/blob/main/books/Complete_DSA_Guide.pdf)
 
 ### GUI in Java
 - [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
