@@ -144,4 +144,4 @@ Table of Contents
 - [50 Most-Used Linux Commands](https://youtu.be/ZtqBQ68cfJc)
 
 ### Documentation  
-- [All in One Documentations](https://devdocs.io/)
+- [All in One Documentation](https://devdocs.io/)
