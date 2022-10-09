@@ -62,6 +62,7 @@ Table of Contents
  
 ### Web development
 - [w3schools.com](https://https://w3schools.com/)
+- [HTML & CSS](https://learn.shayhowe.com/html-css/)
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
