@@ -29,11 +29,11 @@ Table of Contents
 - [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
 - [GUI in Java](#GUI-in-Java)
-- [C programming](#c-programming)
+- [C Programming](#c-programming)
 - [Python](#python)
 - [JavaScript](#JavaScript)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
-- [Software-requirments](#Requirments)
+- [Software-requirements](#Requirments)
 - [Developer Roadmap](#developer-roadmap)
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
@@ -106,6 +106,7 @@ Table of Contents
 
 ### Data Structures and Algorithms
 - [Starting With Data Structures](https://youtu.be/BBpAmxU_NQo)
+- [Data Structures and Algorithms in c](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 
 ### GUI in Java
 - [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
