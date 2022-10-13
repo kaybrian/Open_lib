@@ -20,7 +20,6 @@ Table of Contents
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
 - [Markdown Sheet](#markdown-sheet)
-- [JavaScript](#javascript-programming)
 - [Data Science](#data-science)
 - [Responsive Web Design](#responsive-web-design)
 - [C Programming](#c-programming)
@@ -57,9 +56,6 @@ Table of Contents
 
 ### Python
 - [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-
-### JavaScript Programming
- - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
  
 ### Web development
 - [w3schools.com](https://https://w3schools.com/)
@@ -94,6 +90,8 @@ Table of Contents
 ### JavaScript
 - [Ultimate JavaScript Course](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46)
 - [JavaScript Tutorial for Beginners - Full Course in 12 Hours](https://www.youtube.com/watch?v=lI1ae4REbFM)
+ - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
+
 ### Power BI
 - [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
 
