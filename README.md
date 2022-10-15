@@ -31,6 +31,8 @@ Table of Contents
 - [GUI in Java](#GUI-in-Java)
 - [C Programming](#c-programming)
 - [Python](#python)
+- [Flask](#flask)
+- [django](#django)
 - [JavaScript](#JavaScript)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
 - [Software-requirements](#Requirments)
@@ -54,8 +56,6 @@ Table of Contents
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
 
-### Python
-- [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
  
 ### Web development
 - [w3schools.com](https://https://w3schools.com/)
@@ -86,7 +86,15 @@ Table of Contents
 ### Python
 - [Python Tutorial For Beginners With Notes](https://www.youtube.com/watch?v=EyEqWFvLDT8)
 - [Python Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+- [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
+
+### Flask 
+- [Learn the flask framework](https://www.youtube.com/playlist?list=PLEt8Tae2spYmDzocUL1pz8_Yc7plUg4bI)
+
+### Django 
+- [Learn the Django framework](https://www.youtube.com/playlist?list=PLEt8Tae2spYnEeJM9ZDgSrA5_7Cl3nLaI)
+- [Learn Django Rest-frame work](https://www.youtube.com/playlist?list=PLEt8Tae2spYl6Y-mBXsJ5QNUxeC6rVNJH)
 ### JavaScript
 - [Ultimate JavaScript Course](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46)
 - [JavaScript Tutorial for Beginners - Full Course in 12 Hours](https://www.youtube.com/watch?v=lI1ae4REbFM)
