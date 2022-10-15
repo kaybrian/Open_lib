@@ -112,9 +112,9 @@ Table of Contents
 - [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
 
 ### build simple calculator
--[How to build simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
+-[How to build a simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
 
-### C programming
+### C Programming
 - [Data Structures in C](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 ### Data Analysis with R Programming
