@@ -20,7 +20,6 @@ Table of Contents
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
 - [Markdown Sheet](#markdown-sheet)
-- [JavaScript](#javascript-programming)
 - [Data Science](#data-science)
 - [Responsive Web Design](#responsive-web-design)
 - [C Programming](#c-programming)
@@ -30,11 +29,13 @@ Table of Contents
 - [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
 - [GUI in Java](#GUI-in-Java)
-- [C programming](#c-programming)
+- [C Programming](#c-programming)
 - [Python](#python)
+- [Flask](#flask)
+- [django](#django)
 - [JavaScript](#JavaScript)
 - [Data Analysis with R Programming](#Data-Analysis-with-R-Programming)
-- [Software-requirments](#Requirments)
+- [Software-requirements](#Requirments)
 - [Developer Roadmap](#developer-roadmap)
 - [Golang](#golang)
 - [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
@@ -55,11 +56,6 @@ Table of Contents
 - [How do computers and the internet work? - Computer Science Basics](https://www.youtube.com/watch?v=AV_VYsJnHQQ&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=2)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=16)
 
-### Python
-- [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-
-### JavaScript Programming
- - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
  
 ### Web development
 - [w3schools.com](https://https://w3schools.com/)
@@ -90,10 +86,20 @@ Table of Contents
 ### Python
 - [Python Tutorial For Beginners With Notes](https://www.youtube.com/watch?v=EyEqWFvLDT8)
 - [Python Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+- [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
+
+### Flask 
+- [Learn the flask framework](https://www.youtube.com/playlist?list=PLEt8Tae2spYmDzocUL1pz8_Yc7plUg4bI)
+
+### Django 
+- [Learn the Django framework](https://www.youtube.com/playlist?list=PLEt8Tae2spYnEeJM9ZDgSrA5_7Cl3nLaI)
+- [Learn Django Rest-frame work](https://www.youtube.com/playlist?list=PLEt8Tae2spYl6Y-mBXsJ5QNUxeC6rVNJH)
 ### JavaScript
 - [Ultimate JavaScript Course](https://www.youtube.com/watch?v=DW7OaXN9wMs&list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46)
 - [JavaScript Tutorial for Beginners - Full Course in 12 Hours](https://www.youtube.com/watch?v=lI1ae4REbFM)
+ - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
+
 ### Power BI
 - [Introduction to power BI](https://youtu.be/TmhQCQr_DCA)
 
@@ -108,15 +114,16 @@ Table of Contents
 
 ### Data Structures and Algorithms
 - [Starting With Data Structures](https://youtu.be/BBpAmxU_NQo)
+- [Data Structures and Algorithms in c](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - [Complete Data Structures & Algorithms Guide](https://github.com/chyna-gvng/Open_lib/blob/main/books/Complete_DSA_Guide.pdf)
 
 ### GUI in Java
 - [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
 
 ### build simple calculator
--[How to build simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
+-[How to build a simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
 
-### C programming
+### C Programming
 - [Data Structures in C](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 ### Data Analysis with R Programming
