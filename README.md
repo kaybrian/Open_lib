@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Please refer to [`CONTRIBUTING.md`](./contributions.md) for **contribution** guidelines\*\*.
+Please refer to [`CONTRIBUTING.md`](./CONTRIBUTING.md) for **contribution** guidelines\*\*.
 
 - Please feel free to raise any genuine issue you may have
 - You are welcome to contribute, please create PR if you have any links, books or courses that may benefit someone in the tech field. Don't forget to add that link to the respective documentation and course section.
@@ -16,7 +16,7 @@ Table of Contents
 ---
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Self Growth](#self-growth),
+- [Self Growth](#self-growth)
 - [build simple calculator](#build-simple-calculator)
 - [Self Growth](#self-growth)
 - [Markdown Sheet](#markdown-sheet)
@@ -28,7 +28,7 @@ Table of Contents
 - [Learn Git basics in an hour](#git-basics)
 - [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
-- [GUI in Java](#GUI-in-Java)
+- [Java Programming](#java-programming)
 - [C Programming](#c-programming)
 - [Python](#python)
 - [Flask](#flask)
@@ -44,6 +44,7 @@ Table of Contents
 - [Flutter Course for beginners 37 hours](#Flutter-Course-for-beginners)
 - [Linux](#Linux)
 - [Documentation](#documentation)
+- [Podcasts channels](#podcasts-channels)
 
 
 ## Courses
@@ -63,6 +64,8 @@ Table of Contents
 
 ### Self Growth
 - [How To Become a 10x Developer](https://www.youtube.com/watch?v=wJNikDr-aNM)
+- [100 Seconds of Code](https://youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN)
+- [Developer Productivity](https://youtube.com/playlist?list=PL0vfts4VzfNg__PkSVKhrYvdc35kHybBy)
 
 ### Lifestyle stuff
 - [Hallden Youtube Channel](https://www.youtube.com/c/KalleHallden)
@@ -81,13 +84,23 @@ Table of Contents
 
 ### C Programming
 - [C Programming tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
+- [Data Structures in C](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [An Easy Guide to Understand Dynamic Memory Allocation in C Programming Language](https://medium.com/geekculture/an-easy-guide-to-understand-dynamic-memory-allocation-in-c-programming-language-bb34d29f7a06)
 
-### Python
+### Python Programming
 - [Python Tutorial For Beginners With Notes](https://www.youtube.com/watch?v=EyEqWFvLDT8)
 - [Python Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 - [Learn Python in 6 hours](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [PyCharm Tutorial | Full Course in 2 Hours](https://www.youtube.com/watch?v=hc50ALh_x5g&t=49s)
+- [Every Python Function Explained](https://www.youtube.com/watch?v=NYktbp1WFS8&t=66s)
+- [Every Python Function Explained | H - Z](https://www.youtube.com/watch?v=wsETdTd1rp8)
+- [Python Tutorials - Programming with Mosh](https://youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)
 
+### Java Programming
+- [How to plan your Java learning path - Brain Bytes](https://www.youtube.com/watch?v=DC5wtYGQ7XE&t=82s)
+- [Java Full Course](https://youtu.be/Qgl81fPcLc8)
+- [IntelliJ IDEA | Full Course | 2020](https://youtu.be/yefmcX57Eyg)
+- [Java GUI Tutorial - Make a Login GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
 
 ### Flask 
 - [Learn the flask framework](https://www.youtube.com/playlist?list=PLEt8Tae2spYmDzocUL1pz8_Yc7plUg4bI)
@@ -117,20 +130,14 @@ Table of Contents
 - [Data Structures and Algorithms in c](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - [Complete Data Structures & Algorithms Guide](https://github.com/chyna-gvng/Open_lib/blob/main/books/Complete_DSA_Guide.pdf)
 
-### GUI in Java
-- [Make a SIMPLE GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
-
 ### build simple calculator
 -[How to build a simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
-
-### C Programming
-- [Data Structures in C](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 ### Data Analysis with R Programming
 - [R Programming Crash Course](https://www.youtube.com/watch?v=ZYdXI1GteDE)
 
 ### Software Engineering
-- [Software engineering requirmets](https://youtu.be/mGkkZoFc-4I)
+- [Software Requirements Specification](https://youtu.be/mGkkZoFc-4I)
 
 ### Developer Roadmap
 - [Developer roadmap to guide your software engineering journey](https://roadmap.sh/)
@@ -153,3 +160,11 @@ Table of Contents
 
 ### Documentation  
 - [All in One Documentation](https://devdocs.io/)
+
+### Podcasts channels 
+- [The Backend Engineering Show with Hussein Nasser](The Backend Engineering Show with Hussein Nasser)
+
+### Priceless websites 
+- [TutsNode](https://tutsnode.net/)
+- [Free Courses Online](https://www.freecoursesonline.me/)
+- [Z-Library](https://z-lib.org/)
