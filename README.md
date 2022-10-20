@@ -128,7 +128,7 @@ Table of Contents
 ### Data Structures and Algorithms
 - [Starting With Data Structures](https://youtu.be/BBpAmxU_NQo)
 - [Data Structures and Algorithms in c](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
-- [Complete Data Structures & Algorithms Guide](https://github.com/chyna-gvng/Open_lib/blob/main/books/Complete_DSA_Guide.pdf)
+- [Complete Data Structures & Algorithms Guide](./books/Complete_DSA_Guide.pdf)
 
 ### build simple calculator
 -[How to build a simple calculator](https://www.youtube.com/watch?v=rNBrbt90bRk)
@@ -162,7 +162,7 @@ Table of Contents
 - [All in One Documentation](https://devdocs.io/)
 
 ### Podcasts channels 
-- [The Backend Engineering Show with Hussein Nasser](The Backend Engineering Show with Hussein Nasser)
+- [The Backend Engineering Show with Hussein Nasser](https://anchor.fm/hnasr)
 
 ### Priceless websites 
 - [TutsNode](https://tutsnode.net/)
