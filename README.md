@@ -25,7 +25,7 @@ Table of Contents
 - [C Programming](#c-programming)
 - [Power BI](#powerbi)
 - [Adobe Photoshop 2022](#Adobe-Photoshop-2022)
-- [Learn Git basics in an hour](#git-basics)
+- [Git and Github](#git-basics)
 - [Bash loops](#bash-loops)
 - [Data Structures and Algorithms](#datastructures)
 - [Java Programming](#java-programming)
@@ -120,8 +120,9 @@ Table of Contents
 ### Adobe Photoshop 2022
 - [Photoshop Beginner Tutorial (Part 1 of 2)](https://www.youtube.com/watch?v=Wl5CQwmG3uc)
 
-### Learn Git basics in an hour
+### Git and Github
 - [Get started with git](https://www.youtube.com/watch?v=8JJ101D3knE) 
+- [Git and Github tutorial for beginners](https://youtu.be/3fUbBnN_H2c)
 
 ### Bash loops
 - [Understanding the For, Until and While loops](https://youtu.be/_zdChpzuWrU)
